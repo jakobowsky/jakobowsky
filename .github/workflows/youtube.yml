@@ -12,10 +12,13 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
+      # Long-form uploads from @jakobowsky only (the UULF playlist skips Shorts), newest first.
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: YOUTUBE
           feed_list: "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFPe7wOkeAnoxZn9Ri8k05jw"
           max_post_count: 6
+          custom_tags: "videoId/yt:videoId/"
+          template: '<a href="$url"><img width="32%" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg" alt="$title" title="$title"></a> '
           commit_message: "Update latest YouTube videos"
