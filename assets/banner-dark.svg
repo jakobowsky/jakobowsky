@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-label="Jakob Wolitzki - Amazon data and AI agents. Co-founder of DataDoe and Deltologic.">
-<title>Jakob Wolitzki - Amazon data and AI agents</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-label="Jakob Wolitzki: AI adoption for e-commerce. Co-founder of DataDoe and Deltologic.">
+<title>Jakob Wolitzki: AI adoption for e-commerce</title>
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b0f17"/><stop offset="1" stop-color="#111827"/></linearGradient>
   <linearGradient id="ac" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ff9900"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
@@ -28,17 +28,17 @@
   <rect x="0" y="0" width="1280" height="4" fill="url(#ac)"/>
 
   <text class="h" x="62" y="124">Jakob Wolitzki</text>
-  <text class="s" x="66" y="174">Amazon data + AI agents</text>
+  <text class="s" x="66" y="174">AI adoption for e-commerce</text>
   <text class="b" x="66" y="222">Co-founder of DataDoe and Deltologic.</text>
-  <text class="b" x="66" y="254">Building on the Amazon SP-API since 2020.</text>
-  <g transform="translate(64,286)"><rect width="144" height="34" rx="17" fill="#161b22" stroke="#1f2937"/><text x="72" y="22" class="chip" text-anchor="middle">Amazon SP-API</text></g><g transform="translate(218,286)"><rect width="153" height="34" rx="17" fill="#161b22" stroke="#1f2937"/><text x="76" y="22" class="chip" text-anchor="middle">Amazon Ads API</text></g><g transform="translate(380,286)"><rect width="52" height="34" rx="17" fill="#161b22" stroke="#1f2937"/><text x="26" y="22" class="chip" text-anchor="middle">MCP</text></g><g transform="translate(442,286)"><rect width="79" height="34" rx="17" fill="#161b22" stroke="#1f2937"/><text x="40" y="22" class="chip" text-anchor="middle">Claude</text></g><g transform="translate(531,286)"><rect width="107" height="34" rx="17" fill="#161b22" stroke="#1f2937"/><text x="53" y="22" class="chip" text-anchor="middle">AI agents</text></g>
+  <text class="b" x="66" y="254">Building on Amazon's APIs since 2020.</text>
+  <g transform="translate(64,286)"><rect width="107" height="34" rx="17" fill="#161b22" stroke="#1f2937"/><text x="53" y="22" class="chip" text-anchor="middle">AI agents</text></g><g transform="translate(181,286)"><rect width="144" height="34" rx="17" fill="#161b22" stroke="#1f2937"/><text x="72" y="22" class="chip" text-anchor="middle">Amazon SP-API</text></g><g transform="translate(334,286)"><rect width="153" height="34" rx="17" fill="#161b22" stroke="#1f2937"/><text x="76" y="22" class="chip" text-anchor="middle">Amazon Ads API</text></g><g transform="translate(497,286)"><rect width="52" height="34" rx="17" fill="#161b22" stroke="#1f2937"/><text x="26" y="22" class="chip" text-anchor="middle">MCP</text></g><g transform="translate(559,286)"><rect width="79" height="34" rx="17" fill="#161b22" stroke="#1f2937"/><text x="40" y="22" class="chip" text-anchor="middle">Claude</text></g>
 
   <g>
     <rect x="684" y="36" width="560" height="294" rx="12" fill="#0d1117" stroke="#30363d"/>
     <circle cx="708" cy="60" r="6" fill="#ff5f57"/><circle cx="728" cy="60" r="6" fill="#febc2e"/><circle cx="748" cy="60" r="6" fill="#28c840"/>
     <text x="964" y="65" class="t d" text-anchor="middle">claude + datadoe-mcp</text>
     <line x1="684" y1="82" x2="1244" y2="82" stroke="#30363d"/>
-    <text class="t p l0" x="708" y="128">$ claude &quot;top 10 ASINs by revenue, all markets&quot;</text><text class="t d l1" x="708" y="159">  ● datadoe · sales_and_traffic · US UK DE</text><text class="t d l2" x="708" y="190">  ● datadoe · amazon_ads · sponsored_products</text><text class="t o l3" x="708" y="221">  ✓ 10 ASINs ranked · 3 above ACoS target</text><text class="t p l4" x="708" y="252">$ claude &quot;pause keywords that burn budget&quot;</text><text class="t o l5" x="708" y="283">  ✓ dryRun ok · 14 keywords · approve?</text>
+    <text class="t p l0" x="708" y="128">$ claude &quot;top 10 ASINs by revenue, all markets&quot;</text><text class="t d l1" x="708" y="159">  ● datadoe · sales_and_traffic · US UK DE</text><text class="t d l2" x="708" y="190">  ● datadoe · amazon_ads · sponsored_products</text><text class="t o l3" x="708" y="221">  ✓ 10 ASINs ranked · 3 above ACoS target</text><text class="t p l4" x="708" y="252">$ claude &quot;pause keywords that burn budget&quot;</text><text class="t o l5" x="708" y="283">  ✓ dry run ok · 14 keywords · waiting for your yes</text>
     <rect class="cur" x="708" y="299" width="9" height="19" fill="#ff9900"/>
   </g>
 </g>
