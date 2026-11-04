@@ -57,8 +57,7 @@ And I write about agentic commerce, AI agents that shop and sell, at [AISell](ht
 I teach Amazon sellers, brands and agencies to run their business with Claude, ChatGPT and MCP, on real accounts. New here? Start with my free course, [Claude for Amazon Sellers](https://www.datadoe.com/courses/amazon-claude): nine short lessons, no code.
 
 <p align="center">
-<!-- YOUTUBE:START -->
-<a href="https://www.youtube.com/watch?v=AA8VGwcqXok"><img width="32%" src="https://i.ytimg.com/vi/AA8VGwcqXok/mqdefault.jpg" alt="Claude Code Tutorial for Amazon Sellers &lpar;Beginner to Pro&rpar;" title="Claude Code Tutorial for Amazon Sellers &lpar;Beginner to Pro&rpar;"></a>
+<!-- YOUTUBE:START --><a href="https://www.youtube.com/watch?v=AA8VGwcqXok"><img width="32%" src="https://i.ytimg.com/vi/AA8VGwcqXok/mqdefault.jpg" alt="Claude Code Tutorial for Amazon Sellers &lpar;Beginner to Pro&rpar;" title="Claude Code Tutorial for Amazon Sellers &lpar;Beginner to Pro&rpar;"></a>
 <a href="https://www.youtube.com/watch?v=e1mS1dwB9ZY"><img width="32%" src="https://i.ytimg.com/vi/e1mS1dwB9ZY/mqdefault.jpg" alt="Amazon Seller Assistant in Claude: 5 Things to Check &lpar;2026&rpar;" title="Amazon Seller Assistant in Claude: 5 Things to Check &lpar;2026&rpar;"></a>
 <a href="https://www.youtube.com/watch?v=Mm2_hUAaP2w"><img width="32%" src="https://i.ytimg.com/vi/Mm2_hUAaP2w/mqdefault.jpg" alt="Claude for Amazon Brands: Full AI Course 2026" title="Claude for Amazon Brands: Full AI Course 2026"></a>
 <!-- YOUTUBE:END -->
