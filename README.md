@@ -7,7 +7,7 @@
   <a href="https://www.youtube.com/@jakobowsky?sub_confirmation=1"><img alt="YouTube: @jakobowsky" src="https://img.shields.io/badge/YouTube-@jakobowsky-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/jakob-wolitzki"><img alt="LinkedIn: Jakob Wolitzki" src="https://img.shields.io/badge/LinkedIn-Jakob%20Wolitzki-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://x.com/wolitzki"><img alt="X: @wolitzki" src="https://img.shields.io/badge/X-@wolitzki-000000?style=for-the-badge&logo=x&logoColor=white"></a>
-  <a href="https://click.deltologic.com/wolitzki-calendar"><img alt="Book a call with Jakob" src="https://img.shields.io/badge/Book%20a%20call-0d0f12?style=for-the-badge&logo=googlecalendar&logoColor=white"></a>
+  <a href="https://calendly.com/wolitzki-deltologic/50min"><img alt="Book a call with Jakob" src="https://img.shields.io/badge/Book%20a%20call-0d0f12?style=for-the-badge&logo=googlecalendar&logoColor=white"></a>
 </p>
 
 Hey, I'm **Jakob Wolitzki**.
@@ -73,4 +73,4 @@ I teach Amazon sellers, brands and agencies to run their business with Claude, C
 - [amazon-sp-api-course](https://github.com/Deltologic/amazon-sp-api-course): Python code for my free [Amazon SP-API course](https://courses.deltologic.com/).
 - Older tutorials, 400+ stars in total: [AmazonPriceTracker](https://github.com/jakobowsky/AmazonPriceTracker), [SP-API orders to Google Sheets](https://github.com/jakobowsky/amazon-sp-api-orders-to-google-sheets), [SP-API without AWS signing](https://github.com/jakobowsky/new-sp-api).
 
-<p align="center"><b>Want AI agents working in your e-commerce company?</b> <a href="https://click.deltologic.com/wolitzki-calendar">Book a call with me</a></p>
+<p align="center"><b>Want AI agents working in your e-commerce company?</b> <a href="https://calendly.com/wolitzki-deltologic/50min">Book a call with me</a></p>
