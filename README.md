@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Jakob Wolitzki: AI adoption for e-commerce. Co-founder of DataDoe and Deltologic." src="assets/banner-light.svg" width="100%">
+  <img alt="Jakob Wolitzki: AI adoption for e-commerce. I build the systems that let AI agents and e-commerce teams work together." src="assets/banner-light.svg" width="100%">
 </picture>
 
 <p align="center">
@@ -10,12 +10,18 @@
   <a href="https://click.deltologic.com/wolitzki-calendar"><img alt="Book a call with Jakob" src="https://img.shields.io/badge/Book%20a%20call-0d0f12?style=for-the-badge&logo=googlecalendar&logoColor=white"></a>
 </p>
 
-I'm **Jakob Wolitzki**, and I help e-commerce companies put AI to work. Commerce is moving to AI agents: they search and buy for shoppers, and more and more they run the store for sellers. I build the seller side of that shift, and have built on the Amazon SP-API and Ads API since 2020.
+Hey, I'm **Jakob Wolitzki**.
+
+I've built tools for Amazon sellers since 2020. It started with integrations and automations, one client at a time. Today it's [DataDoe](https://www.datadoe.com/), a platform that lets AI agents do real work on Amazon: read the data, then update listings, prices, orders and ads. Amazon first, more marketplaces next.
+
+I also help e-commerce companies adopt AI. At [Deltologic](https://deltologic.com/) we build the systems a company needs so its people and its AI agents can work together: one source of data, clear rules, and agents that ask before they act.
+
+And I write about agentic commerce, AI agents that shop and sell, at [AISell](https://aisell.com/).
 
 <table align="center">
   <tr>
-    <td align="center" width="25%"><h3>200+</h3>e-commerce builds<br>since 2020</td>
-    <td align="center" width="25%"><h3>30+</h3>engineers<br>in our team</td>
+    <td align="center" width="25%"><h3>500+</h3>Amazon businesses<br>on DataDoe</td>
+    <td align="center" width="25%"><h3>200+</h3>systems built for<br>e-commerce</td>
     <td align="center" width="25%"><h3>170+</h3>Amazon data<br>tables for AI</td>
     <td align="center" width="25%"><h3>11K+</h3>YouTube<br>subscribers</td>
   </tr>
@@ -28,27 +34,27 @@ I'm **Jakob Wolitzki**, and I help e-commerce companies put AI to work. Commerce
     <td valign="top" width="33%">
       <a href="https://www.datadoe.com/"><img src="assets/datadoe.svg" width="44" alt="DataDoe logo"></a>
       <h3><a href="https://www.datadoe.com/">DataDoe</a></h3>
-      <b>The Amazon data and action layer for AI agents.</b><br><br>
-      Claude, ChatGPT and any MCP client read your Seller, Vendor and Ads data, then update listings, prices, orders and campaigns. Only the actions you allow, every change logged.
+      <b>AI agents that work on Amazon.</b><br><br>
+      Claude, ChatGPT or any MCP client gets your Seller, Vendor and Ads data, plus the actions to work with it. You decide what an agent may change. Every change is logged.
     </td>
     <td valign="top" width="33%">
       <a href="https://deltologic.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/deltologic-white.svg"><img src="assets/deltologic.svg" width="44" alt="Deltologic logo"></picture></a>
       <h3><a href="https://deltologic.com/">Deltologic</a></h3>
-      <b>AI adoption and engineering for e-commerce.</b><br><br>
-      We map your operations, find where AI pays off first, then build it with your team: integrations, automation and AI agents across every marketplace.
+      <b>AI adoption for e-commerce companies.</b><br><br>
+      We find where AI pays off in your operations, then build it with your team: data, integrations, automations and agents, on every channel you sell on.
     </td>
     <td valign="top" width="33%">
       <a href="https://aisell.com/"><img src="assets/aisell.svg" width="44" alt="AISell logo"></a>
       <h3><a href="https://aisell.com/">AISell</a></h3>
-      <b>Field notes on AI commerce.</b><br><br>
-      How AI agents and AI search decide what people buy, and what brands should change. Start with my <a href="https://aisell.com/article/ai-commerce-playbook-for-amazon-sellers-2026-edition">AI Commerce Playbook for Amazon Sellers</a>.
+      <b>A publication on agentic commerce.</b><br><br>
+      How AI agents and AI search decide what people buy, and what brands should do about it. Start with my <a href="https://aisell.com/article/ai-commerce-playbook-for-amazon-sellers-2026-edition">AI Commerce Playbook for Amazon Sellers</a>.
     </td>
   </tr>
 </table>
 
 ## Amazon + AI on YouTube
 
-I show Amazon sellers, brands and agencies how to run real accounts with Claude, ChatGPT and MCP. New here? Start with the free course **[Claude for Amazon Sellers](https://www.datadoe.com/courses/amazon-claude)**: nine short lessons, no code.
+I teach Amazon sellers, brands and agencies to run their business with Claude, ChatGPT and MCP, on real accounts. New here? Start with my free course, [Claude for Amazon Sellers](https://www.datadoe.com/courses/amazon-claude): nine short lessons, no code.
 
 <p align="center">
 <!-- YOUTUBE:START -->
@@ -56,11 +62,17 @@ I show Amazon sellers, brands and agencies how to run real accounts with Claude,
 <!-- YOUTUBE:END -->
 </p>
 
+## Press
+
+- [DataDoe surpasses 500 Amazon businesses using AI to read data and execute actions through MCP](https://www.openpr.com/news/4584105/datadoe-surpasses-500-amazon-businesses-using-ai-to-read-data) · openPR, July 2026
+- [Deltologic introduces DataDoe Amazon Seller MCP for smaller teams](https://aijourn.com/deltologic-introduces-datadoe-amazon-seller-mcp-to-bring-enterprise-ecommerce-infrastructure-to-smaller-teams/) · The AI Journal, May 2026
+- [DataDoe launches Amazon data MCP for Claude, ChatGPT and Cursor](https://martechseries.com/analytics/data-management-platforms/datadoe-launches-amazon-data-mcp-for-claude-chatgpt-and-cursor/) · MarTech Series and [The National Law Review](https://natlawreview.com/press-releases/datadoe-launches-amazon-data-mcp-claude-chatgpt-and-cursor), May 2026
+
 ## Open-source Amazon tools
 
-- **[datadoe-mcp](https://github.com/Deltologic/datadoe-mcp)**: hosted Amazon Seller and Vendor MCP server, with setup guides for 20+ AI clients.
-- **[datadoe-ai-skills](https://github.com/Deltologic/datadoe-ai-skills)**: AI skills that take a coding agent from one prompt to a working Amazon app.
-- **[amazon-sp-api-course](https://github.com/Deltologic/amazon-sp-api-course)**: Python code for the free [Amazon SP-API course](https://courses.deltologic.com/).
-- **Older tutorials** (400+ stars in total): [AmazonPriceTracker](https://github.com/jakobowsky/AmazonPriceTracker), [SP-API orders to Google Sheets](https://github.com/jakobowsky/amazon-sp-api-orders-to-google-sheets), [SP-API without AWS signing](https://github.com/jakobowsky/new-sp-api).
+- [datadoe-mcp](https://github.com/Deltologic/datadoe-mcp): hosted Amazon Seller and Vendor MCP server, with setup guides for 20+ AI clients.
+- [datadoe-ai-skills](https://github.com/Deltologic/datadoe-ai-skills): AI skills that take a coding agent from one prompt to a working Amazon app.
+- [amazon-sp-api-course](https://github.com/Deltologic/amazon-sp-api-course): Python code for my free [Amazon SP-API course](https://courses.deltologic.com/).
+- Older tutorials, 400+ stars in total: [AmazonPriceTracker](https://github.com/jakobowsky/AmazonPriceTracker), [SP-API orders to Google Sheets](https://github.com/jakobowsky/amazon-sp-api-orders-to-google-sheets), [SP-API without AWS signing](https://github.com/jakobowsky/new-sp-api).
 
-<p align="center"><b>Bringing AI into your e-commerce business?</b> <a href="https://click.deltologic.com/wolitzki-calendar">Book a call with me</a></p>
+<p align="center"><b>Want AI agents working in your e-commerce company?</b> <a href="https://click.deltologic.com/wolitzki-calendar">Book a call with me</a></p>
