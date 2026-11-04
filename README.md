@@ -4,28 +4,51 @@
 </picture>
 
 <p align="center">
-  <a href="https://www.datadoe.com/"><img alt="DataDoe" src="https://img.shields.io/badge/DataDoe-Amazon%20MCP-FF9900?style=for-the-badge"></a>
-  <a href="https://deltologic.com/"><img alt="Deltologic" src="https://img.shields.io/badge/Deltologic-AI%20adoption-111827?style=for-the-badge"></a>
   <a href="https://www.youtube.com/@jakobowsky?sub_confirmation=1"><img alt="YouTube: @jakobowsky" src="https://img.shields.io/badge/YouTube-@jakobowsky-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/jakob-wolitzki"><img alt="LinkedIn: Jakob Wolitzki" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/jakob-wolitzki"><img alt="LinkedIn: Jakob Wolitzki" src="https://img.shields.io/badge/LinkedIn-Jakob%20Wolitzki-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://x.com/wolitzki"><img alt="X: @wolitzki" src="https://img.shields.io/badge/X-@wolitzki-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="https://click.deltologic.com/wolitzki-calendar"><img alt="Book a call with Jakob" src="https://img.shields.io/badge/Book%20a%20call-0d0f12?style=for-the-badge&logo=googlecalendar&logoColor=white"></a>
 </p>
 
-I help e-commerce companies put AI to work. I co-founded **[Deltologic](https://deltologic.com/)**, which has built software on Amazon's APIs since 2020, and **[DataDoe](https://www.datadoe.com/)**, the Amazon data and action layer that lets Claude, ChatGPT and other AI agents read your Seller Central, Vendor Central and Amazon Ads data and act on it, only where you allow it.
+I'm **Jakob Wolitzki**, and I help e-commerce companies put AI to work. Commerce is moving to AI agents: they search and buy for shoppers, and more and more they run the store for sellers. I build the seller side of that shift, and have built on the Amazon SP-API and Ads API since 2020.
 
 <table align="center">
   <tr>
     <td align="center" width="25%"><h3>200+</h3>e-commerce builds<br>since 2020</td>
     <td align="center" width="25%"><h3>30+</h3>engineers<br>in our team</td>
-    <td align="center" width="25%"><h3>130+</h3>Amazon data<br>tables for AI</td>
+    <td align="center" width="25%"><h3>170+</h3>Amazon data<br>tables for AI</td>
     <td align="center" width="25%"><h3>11K+</h3>YouTube<br>subscribers</td>
   </tr>
 </table>
 
-## What I work on
+## What I build for e-commerce
 
-- **[DataDoe](https://www.datadoe.com/)**: connect any AI to Amazon through MCP, a REST API or BigQuery. Seller, Vendor and Ads data (including AMC and DSP) in one schema, plus [Actions](https://www.datadoe.com/hub/docs/datadoe-features/actions) that update listings, prices, orders and campaigns. Each Action type stays off until you switch it on, and every change is logged.
-- **[Deltologic](https://deltologic.com/)**: AI adoption and engineering for marketplace businesses. We map the operations, find where AI pays off first, then build it with the team: integrations, automation and AI agents across Amazon, Walmart, eBay and Allegro.
-- **[YouTube](https://www.youtube.com/@jakobowsky)**: how Amazon sellers, brands and agencies run real accounts with Claude, ChatGPT and MCP. Start with the free course [Claude for Amazon Sellers](https://www.datadoe.com/courses/amazon-claude) (nine short lessons, no code).
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <a href="https://www.datadoe.com/"><img src="assets/datadoe.svg" width="44" alt="DataDoe logo"></a>
+      <h3><a href="https://www.datadoe.com/">DataDoe</a></h3>
+      <b>The Amazon data and action layer for AI agents.</b><br><br>
+      Claude, ChatGPT and any MCP client read your Seller, Vendor and Ads data, then update listings, prices, orders and campaigns. Only the actions you allow, every change logged.
+    </td>
+    <td valign="top" width="33%">
+      <a href="https://deltologic.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/deltologic-white.svg"><img src="assets/deltologic.svg" width="44" alt="Deltologic logo"></picture></a>
+      <h3><a href="https://deltologic.com/">Deltologic</a></h3>
+      <b>AI adoption and engineering for e-commerce.</b><br><br>
+      We map your operations, find where AI pays off first, then build it with your team: integrations, automation and AI agents across every marketplace.
+    </td>
+    <td valign="top" width="33%">
+      <a href="https://aisell.com/"><img src="assets/aisell.svg" width="44" alt="AISell logo"></a>
+      <h3><a href="https://aisell.com/">AISell</a></h3>
+      <b>Field notes on AI commerce.</b><br><br>
+      How AI agents and AI search decide what people buy, and what brands should change. Start with my <a href="https://aisell.com/article/ai-commerce-playbook-for-amazon-sellers-2026-edition">AI Commerce Playbook for Amazon Sellers</a>.
+    </td>
+  </tr>
+</table>
+
+## Amazon + AI on YouTube
+
+I show Amazon sellers, brands and agencies how to run real accounts with Claude, ChatGPT and MCP. New here? Start with the free course **[Claude for Amazon Sellers](https://www.datadoe.com/courses/amazon-claude)**: nine short lessons, no code.
 
 <p align="center">
 <!-- YOUTUBE:START -->
@@ -33,7 +56,7 @@ I help e-commerce companies put AI to work. I co-founded **[Deltologic](https://
 <!-- YOUTUBE:END -->
 </p>
 
-## Open source
+## Open-source Amazon tools
 
 - **[datadoe-mcp](https://github.com/Deltologic/datadoe-mcp)**: hosted Amazon Seller and Vendor MCP server, with setup guides for 20+ AI clients.
 - **[datadoe-ai-skills](https://github.com/Deltologic/datadoe-ai-skills)**: AI skills that take a coding agent from one prompt to a working Amazon app.
